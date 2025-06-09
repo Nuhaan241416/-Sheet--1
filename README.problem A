@@ -1,0 +1,11 @@
+# -Sheet--1
+Course code :2310 
+#include<bits/stdc++.h>
+using namespace std;
+ 
+int main()
+{
+   string s;
+   cin>>s;
+   cout<<"Hello
+}
